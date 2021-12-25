@@ -15,6 +15,6 @@
       <guid>460240c2-e911-4f20-ae6c-39c7f630281b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Test.Case.122521a/Folder1.Folder2a/Form122521</testCaseId>
+      <testCaseId>Test Cases/Test.Case.122521a/Folder1.Folder2a/Form122521new</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
